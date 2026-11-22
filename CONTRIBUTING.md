@@ -13,6 +13,7 @@ These rules apply to every repository of the organisation unless the repository 
 
 ## Never
 
+- Create a public repository in the organisation without asking the tech lead first.
 - Push directly to `main`, or `git push --force` on someone else's branch.
 - Commit a key, a password, a token or personal data. If one leaks, revoke it first, then tell the tech lead.
 - List an AI (Claude, Copilot, Codex…) as author or co-author of a commit or pull request. You are the author of what you ship.
