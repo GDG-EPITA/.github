@@ -1,17 +1,20 @@
-## GDSC EPITA
+## GDG on Campus EPITA
 
-The GDSC is a community powered by students for students. 🤖
+GDG on Campus EPITA is a community powered by students for students.
 
-This community aims to learn and grow together by doing practical projects using Google’s technologies and methodology. 
+We learn and grow together by building practical projects with Google technologies and methodology. Everyone is welcome, whatever your technical background or year of study.
 
-Everyone is welcome, no matter the technical background or the level of study. 
+## Projects
 
-All you need is enthusiasm and the will to crunch (some more…) 😊
+- [gdg-link-hub](https://github.com/GDG-EPITA/gdg-link-hub): every GDG link and tool on one page
+- [gdg-notifier](https://github.com/GDG-EPITA/gdg-notifier): pull requests and upcoming events, posted to Slack
+
+## Contributing
+
+One task, one branch, one pull request, and every pull request is reviewed before it reaches `main`. See [CONTRIBUTING.md](https://github.com/GDG-EPITA/.github/blob/master/CONTRIBUTING.md).
 
 ## Links
-- [Linktree](https://linktr.ee/gdsc_epita)
 
-- [Become a member](https://gdsc.community.dev/epita/)
-- [Discord](https://discord.com/invite/KnpuZJ4uvu)
+- [Linktree](https://linktr.ee/gdsc_epita)
 - [Instagram](https://www.instagram.com/gdsc_epita/)
-- [Linkedin](https://www.linkedin.com/company/gdsc-epita/)
+- [LinkedIn](https://www.linkedin.com/company/gdsc-epita/)
