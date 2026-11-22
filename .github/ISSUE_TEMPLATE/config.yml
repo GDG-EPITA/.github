@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Tasks and ideas (members)
+    url: https://app.clickup.com
+    about: Tasks, ideas and project tracking live in the GDG ClickUp. Issues are only for bugs.
+  - name: Security problem
+    url: https://github.com/GDG-EPITA/.github/blob/master/SECURITY.md
+    about: Do not open a public issue for a vulnerability or a leaked secret.
